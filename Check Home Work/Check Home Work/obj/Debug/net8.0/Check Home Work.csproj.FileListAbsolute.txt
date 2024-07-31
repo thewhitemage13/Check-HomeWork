@@ -1,0 +1,14 @@
+D:\.Net\Check Home Work\Check Home Work\bin\Debug\net8.0\Check Home Work.exe
+D:\.Net\Check Home Work\Check Home Work\bin\Debug\net8.0\Check Home Work.deps.json
+D:\.Net\Check Home Work\Check Home Work\bin\Debug\net8.0\Check Home Work.runtimeconfig.json
+D:\.Net\Check Home Work\Check Home Work\bin\Debug\net8.0\Check Home Work.dll
+D:\.Net\Check Home Work\Check Home Work\bin\Debug\net8.0\Check Home Work.pdb
+D:\.Net\Check Home Work\Check Home Work\obj\Debug\net8.0\Check Home Work.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net\Check Home Work\Check Home Work\obj\Debug\net8.0\Check Home Work.AssemblyInfoInputs.cache
+D:\.Net\Check Home Work\Check Home Work\obj\Debug\net8.0\Check Home Work.AssemblyInfo.cs
+D:\.Net\Check Home Work\Check Home Work\obj\Debug\net8.0\Check Home Work.csproj.CoreCompileInputs.cache
+D:\.Net\Check Home Work\Check Home Work\obj\Debug\net8.0\Check Home Work.dll
+D:\.Net\Check Home Work\Check Home Work\obj\Debug\net8.0\refint\Check Home Work.dll
+D:\.Net\Check Home Work\Check Home Work\obj\Debug\net8.0\Check Home Work.pdb
+D:\.Net\Check Home Work\Check Home Work\obj\Debug\net8.0\Check Home Work.genruntimeconfig.cache
+D:\.Net\Check Home Work\Check Home Work\obj\Debug\net8.0\ref\Check Home Work.dll
